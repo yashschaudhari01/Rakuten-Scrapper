@@ -1,0 +1,53 @@
+<div class="row topspace2">
+                    <div class="col-md-12 table2">
+                    <h3 class="headnew mb-4">≫館内のご案内</h3>
+                    <table class="table  table-bordered mt-3 ">
+                        <tbody>
+                        <tr>
+                            <td class="w-25 color-td">チェックイン・アウト</td>
+                            <td>チ ェ ッ ク イ ン   1 5 ： 0 0 / チ ェ ッ ク ア ウ ト   1 0 ： 0 0</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">天然温泉大浴場</td>
+                            <td>【 宿 泊 】 1 5 ： 0 0 〜 2 4 ： 3 0 / 5 ： 0 0 〜 1 0 ： 0 0  
+ 【 日 帰 り 】 1 0 ： 0 0 〜 2 4 ： 3 0 （ 最 終 入 館 受 付 2 3 ： 3 0 ）  
+ ※ 男 女 別 　 ※ 露 天 風 呂 ・ サ ウ ナ あ り</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">和み(朝食)</td>
+                            <td>0 6 ： 3 0 〜 0 9 ： 0 0 　 バ イ キ ン グ 朝 食 ( 有 料 )  
+ 大 人 : 9 0 0 円   小 学 生 ： 4 5 0 円 　 幼 児 ： 無 料</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">食・呑み処 「和み（なごみ）」(夕食)</td>
+                            <td>ラ ン チ ・ 夕 食 1 1 : 0 0 〜 2 3 : 0 0 　 ラ ス ト オ ー ダ ー 2 2 : 3 0    
+ 定 休 日 ： な し</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">館内施設</td>
+                            <td>セ ル フ カ フ ェ （ 無 料 ）   ・ コ イ ン ラ ン ド リ ー   ・ 乾 燥 機   ・ 自 動 販 売 機   ・ イ ン タ ー ネ ッ ト コ ー ナ ー</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">客室タイプ</td>
+                            <td>シ ン グ ル 　 / 　 セ ミ ダ ブ ル 　 / 　 ダ ブ ル 　 / 　 ツ イ ン 　 ※ 禁 煙 室 ・ フ ロ ア に 喫 煙 所 あ り</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">バリアフリー</td>
+                            <td>バ リ ア フ リ ー ル ー ム   ・ バ リ ア フ リ ー ト イ レ   ・ 駐 車 場   ・ 玄 関 ス ロ ー プ   ・ エ レ ベ ー タ ー</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">貸出品</td>
+                            <td>電 気 ス タ ン ド   ・ ド ラ イ ヤ ー   ・ ア イ ロ ン   ・ 加 湿 器   ・ 爪 切 り   ・ ソ ー イ ン グ セ ッ ト   ・ 氷   ・ 除 湿 機   ・ ズ ボ ン プ レ ッ サ ー   ・ 毛 布   ・ 体 温 計   ・ 便 箋</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">有料サービス</td>
+                            <td>コ ピ ー   ・ F A X 送 信   ・ 洗 濯 用 洗 剤</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">駐車場</td>
+                            <td>1 4 4 台 　 無 料 ・ 先 着 順</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>

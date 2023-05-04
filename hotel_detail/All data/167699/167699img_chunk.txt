@@ -1,0 +1,101 @@
+<!-- Photo Gallery Slider - Start -->
+<div class="modal fade" id="photogallery" tabindex="-1" aria-labelledby="photogallerylabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header"><!-- Write Golf Place Name here -->
+        <h5 class="modal-title" id="photogallerylabel">ＡＢホテル東海太田川</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body modal-slider mt-3">
+        <!--  Main Tab Headers Start -->
+        <ul class="nav nav-pills mb-3" id="pills-tabmain" role="tablist">
+          <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="pills-homemain-tab" data-bs-toggle="pill"
+              data-bs-target="#pills-homemain" type="button" role="tab" aria-controls="pills-homemain"
+              aria-selected="true">Photo Gallery</button><!-- Fixed Name -->
+          </li>
+        </ul>
+        <!-- Main Tab Headers End -->
+        <!--  Main Tab Content Start-->
+        <div class="tab-content" id="pills-tabmainContent">
+          <div class="tab-pane fade show active" id="pills-homemain" role="tabpanel"
+            aria-labelledby="pills-homemain-tab">
+            <!--  Sub Tab Header Start--><!--  Remove respective TAB and Content if you do not want to show -->
+            <nav class="mt-5">
+              <div class="nav nav-tabs" id="nav-tabsub" role="tablist">
+                <!--  CourseInfo Header Start-->
+                <button class="nav-link active" id="nav-courseinfo-tab" data-bs-toggle="tab"
+                  data-bs-target="#nav-courseinfo" type="button" role="tab" aria-controls="nav-courseinfo"
+                  aria-selected="true">Introduction</button>
+                <!--  CourseInfo Header End-->
+              </div>
+            </nav>
+            <!--  Sub Tab Header End-->
+            <!--  Sub Tab Content Start-->
+            <div class="tab-content numbertab" id="nav-tabsubContent">
+              <!--  CourseInfo Content Start-->
+              <div class="tab-pane fade show active" id="nav-courseinfo" role="tabpanel"
+                aria-labelledby="nav-courseinfo-tab">
+                <div class="mt-4">
+                  <ul class="nav nav-pills mb-3" id="pills-tabcinfo" role="tablist">
+                    <!--  CourseInfo Tab Header 1H Start-->
+                    <li class="nav-item" role="presentation">
+                      <button class="nav-link active" id="numbercinfo1h-tab" data-bs-toggle="pill"
+                        data-bs-target="#numbercinfo1h" type="button" role="tab" aria-controls="numbercinfo1h"
+                        aria-selected="true"></button>
+                    </li>
+                    <!--  CourseInfo Tab Header 1H End-->
+                  </ul>
+
+                  <div class="tab-content" id="pills-tabcinfoContent">
+                    <!--  CourseInfo Tab Content 1H Start-->
+                    <div class="tab-pane fade show active" id="numbercinfo1h" role="tabpanel"
+                      aria-labelledby="numbercinfo1h-tab">
+                      <div class="owl-carousel">
+                        <!-- Add images here as requried for that section -->
+                          
+                          <div id="c11h1"><img src= 'D:\python\Rakuten scrapper\hotel_detail\All data/167699/167699_1.jpg' alt="Banner" class="img-fluid w-100">
+                        </div>
+<div id="c11h2"><img src= 'D:\python\Rakuten scrapper\hotel_detail\All data/167699/167699_10.jpg' alt="Banner" class="img-fluid w-100">
+                        </div>
+<div id="c11h3"><img src= 'D:\python\Rakuten scrapper\hotel_detail\All data/167699/167699_11.jpg' alt="Banner" class="img-fluid w-100">
+                        </div>
+<div id="c11h4"><img src= 'D:\python\Rakuten scrapper\hotel_detail\All data/167699/167699_12.jpg' alt="Banner" class="img-fluid w-100">
+                        </div>
+<div id="c11h5"><img src= 'D:\python\Rakuten scrapper\hotel_detail\All data/167699/167699_2.jpg' alt="Banner" class="img-fluid w-100">
+                        </div>
+<div id="c11h6"><img src= 'D:\python\Rakuten scrapper\hotel_detail\All data/167699/167699_3.jpg' alt="Banner" class="img-fluid w-100">
+                        </div>
+<div id="c11h7"><img src= 'D:\python\Rakuten scrapper\hotel_detail\All data/167699/167699_4.jpg' alt="Banner" class="img-fluid w-100">
+                        </div>
+<div id="c11h8"><img src= 'D:\python\Rakuten scrapper\hotel_detail\All data/167699/167699_5.jpg' alt="Banner" class="img-fluid w-100">
+                        </div>
+<div id="c11h9"><img src= 'D:\python\Rakuten scrapper\hotel_detail\All data/167699/167699_6.jpg' alt="Banner" class="img-fluid w-100">
+                        </div>
+<div id="c11h10"><img src= 'D:\python\Rakuten scrapper\hotel_detail\All data/167699/167699_7.jpg' alt="Banner" class="img-fluid w-100">
+                        </div>
+<div id="c11h11"><img src= 'D:\python\Rakuten scrapper\hotel_detail\All data/167699/167699_8.jpg' alt="Banner" class="img-fluid w-100">
+                        </div>
+<div id="c11h12"><img src= 'D:\python\Rakuten scrapper\hotel_detail\All data/167699/167699_9.jpg' alt="Banner" class="img-fluid w-100">
+                        </div>
+
+
+
+        </div>
+                      </div>
+                      <!--  course1lay Tab Content 1H End-->
+                    </div>
+                  </div>
+                </div>
+                <!--  Course1 Content End-->
+
+              </div>
+              <!--  Sub Tab Content End-->
+            </div>
+          </div>
+          <!--  Main Tab Content End-->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Photo Gallery Slider - End -->

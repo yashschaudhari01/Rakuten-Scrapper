@@ -1,0 +1,114 @@
+70795
+1672597191.3208787Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+80618
+1672597191.3208787Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+181256
+1672597191.3208787scrapping of table 1,2 and images done
+
+27813
+1672597191.3208787scrapping of table 1,2 and images done
+
+167699
+1672597191.3208787Top table not present
+error - list index out of range
+
+Error in scrapping table 1 or 2 or images
+70795
+1672597341.5331285Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+80618
+1672597341.5331285Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+181256
+1672597341.5331285scrapping of table 1,2 and images done
+
+27813
+1672597341.5331285scrapping of table 1,2 and images done
+
+167699
+1672597341.5331285Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+30982
+1672597341.5331285Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+70795
+1672945709.1768074Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+80618
+1672945709.1768074Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+181256
+1672945709.1768074scrapping of table 1,2 and images done
+
+27813
+1672945709.1768074Error in scrapping table 1 or 2 or images
+error - ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+
+167699
+1672945709.1768074Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+30982
+1672945709.1768074Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+70795
+1672945904.1791275Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+80618
+1672945904.1791275Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+181256
+1672945904.1791275scrapping of table 1,2 and images done
+
+27813
+1672945904.1791275scrapping of table 1,2 and images done
+
+167699
+1672945904.1791275Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+
+30982
+1672945904.1791275Top table not present
+error - list index out of range
+
+scrapping of table 1,2 and images done
+

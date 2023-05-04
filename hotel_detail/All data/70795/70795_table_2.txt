@@ -1,0 +1,32 @@
+<div class="row gy-5 basicinfo">
+                <h3 class="headnew mb-4">その他設備・サービス</h3>
+                <div class="col-md-6">
+                    <h3>食事場所</h3>
+                    <hr>
+                    <h5>[ 朝 食 ]   ダ イ ニ ン グ ル ー ム</h5>
+                    </div><div class="col-md-6">
+                    <h3>カード</h3>
+                    <hr>
+                    <h5>V I S A   J C B   A m e r i c a n   E x p r e s s   D C   N I C O S   M a s t e r   C a r d</h5>
+                    </div><div class="col-md-6">
+                    <h3>条件・注意事項</h3>
+                    <hr>
+                    <h5>チ ェ ッ ク イ ン 後 の 減 泊 は 承 る こ と が 出 来 ま せ ん の で 、 確 定 し て い る 日 数 の み ご 予 約 下 さ い 。</h5>
+                    </div><div class="col-md-6">
+                    <h3>キャンセルポリシー</h3>
+                    <hr>
+                    <h5>キ ャ ン セ ル 料 は 以 下 の 通 り 頂 戴 い た し ま す 。   	 	 	 	 	   	 	 	 	 	   	 	 	 	 	 	 当 日 　 　 　 　 　 　 　 　 ： 宿 泊 料 金 の １ ０ ０ ％   	 	 	 	 	   	 	 	 	 	 	 前 日 　 　 　 　 　 　 　 　 ： 宿 泊 料 金 の ５ ０ ％ 　</h5>
+                    </div><div class="col-md-6">
+                    <h3>連絡なしの不泊について</h3>
+                    <hr>
+                    <h5>不 泊 に つ い て は 以 下 の 通 り 頂 戴 い た し ま す 。   	 	 	 	 	   	 	 	 	 	 連 絡 な し の 不 泊 / 不 着   ： 宿 泊 料 金 の １ ０ ０ ％   	 	 	 	 	   	 	 	 	</h5>
+                    </div><div class="col-md-6">
+                    <h3>バリアフリー対応</h3>
+                    <hr>
+                    <h5>バ リ ア フ リ ー 用 ト イ レ   ※ 宿 泊 施 設 に よ っ て 、 バ リ ア フ リ ー 設 備 内 容 や 、 対 応 で き る サ ー ビ ス 範 囲 が 異 な り ま す 。 ご 不 便 な く 安 心 し て ご 利 用 い た だ く た め に 、 予 め 宿 泊 施 設 へ 直 接 ご 確 認 く だ さ い 。</h5>
+                    </div><div class="col-md-6">
+                    <h3>その他</h3>
+                    <hr>
+                    <h5>な し</h5>
+                    </div>
+            </div>

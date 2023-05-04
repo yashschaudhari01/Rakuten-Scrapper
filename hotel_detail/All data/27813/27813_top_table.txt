@@ -1,0 +1,53 @@
+<div class="row topspace2">
+                    <div class="col-md-12 table2">
+                    <h3 class="headnew mb-4">≫館内のご案内</h3>
+                    <table class="table  table-bordered mt-3 ">
+                        <tbody>
+                        <tr>
+                            <td class="w-25 color-td">チェックイン・アウト</td>
+                            <td>チ ェ ッ ク イ ン   	 1 5 	 ： 0 0  
+ / チ ェ ッ ク ア ウ ト   	 1 0 	 ： 0 0</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">大浴場</td>
+                            <td>夕 方 1 5 ： 0 0 〜 深 夜 2 ： 0 0   /   翌 朝 0 5 ： 0 0 〜 1 0 ： 0 0</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">花茶屋(朝食)</td>
+                            <td>0 6 ： 3 0 〜 0 9 ： 0 0   ( 無 料 )</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">花々亭(夕食)</td>
+                            <td>平 日   1 8 ： 0 0 〜 2 2 ： 0 0 ( 2 1 ： 3 0 ラ ス ト オ ー ダ ー ) 	 	  
+ ( 定 休 日 ： 日 曜 / 祝 日 	 	 )</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">客室タイプ</td>
+                            <td>ス タ ン ダ ー ド   シ ン グ ル / セ ミ ダ ブ ル / ツ イ ン / フ ァ ミ リ ー ダ ブ ル 	 	 
+  
+ ※ 各 禁 煙 ・ 喫 煙 室 有</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">バリアフリー設備</td>
+                            <td>バ リ ア フ リ ー ト イ レ / 駐 車 場 / 玄 関 ス ロ ー プ / エ レ ベ ー タ ー</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">館内施設</td>
+                            <td>セ ル フ カ フ ェ ( 無 料 ) / コ イ ン ラ ン ド リ ー / 乾 燥 機 / 自 動 販 売 機 / リ ラ ク ゼ ー シ ョ ン ル ー ム</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">無料貸出品</td>
+                            <td>枕 / ド ラ イ ヤ ー / 加 湿 器 / 爪 切 り / ソ ー イ ン グ セ ッ ト / 氷 / ズ ボ ン プ レ ッ サ ー / 氷 の う / 毛 布 / 体 温 計</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">有料サービス・販売品</td>
+                            <td>コ ピ ー / F A X 送 信 / T V カ ー ド / 洗 濯 用 洗 剤 / 切 手 / 入 浴 剤</td>
+                        </tr>
+                        <tr>
+                            <td class="w-25 color-td">その他サービス</td>
+                            <td>ク リ ー ニ ン グ / 宅 配 便 / モ ー ニ ン グ コ ー ル / マ ッ サ ー ジ / 朝 刊 無 料 サ ー ビ ス</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                </div>
